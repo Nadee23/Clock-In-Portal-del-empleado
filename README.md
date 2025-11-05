@@ -79,3 +79,9 @@ Control de permisos y visibilidad de funciones según perfil
 🌱 Objetivo del Proyecto
 
 Facilitar la gestión del tiempo y la documentación laboral, centralizando todo en una plataforma intuitiva que mejora la comunicación entre empresa y trabajador.
+
+
+<img width="1810" height="1269" alt="{2BFCE425-7491-4707-A788-3A4055035005}" src="https://github.com/user-attachments/assets/1a1990ca-ecca-4aa8-bd16-bd6b85be037b" />
+<img width="1353" height="1270" alt="{F2E7712E-343B-412B-BB68-941C64B68D8C}" src="https://github.com/user-attachments/assets/e2389bdc-c9d2-428a-a6c4-9cc1ea801f1d" />
+<img width="1808" height="1260" alt="{75CF05D9-F16C-4C4F-B4D0-CCEA1EDF17B6}" src="https://github.com/user-attachments/assets/f56472de-4365-42b3-9291-06f325422f41" />
+<img width="1376" height="929" alt="{7D0419DC-3915-4C16-8946-AEF15B286DF5}" src="https://github.com/user-attachments/assets/628385fb-99ee-4972-813c-8cb03ff46191" />
